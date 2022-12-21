@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=soft&height=200&text=JEWONSEOK&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&fontAlignY=40&color=0:BCE3FD,100:C091F6&section=header)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JEWONSEOK&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&fontAlignY=40&color=0:BCE3FD,100:C091F6&section=header)
 
 ### 🌱Experiences
 <!--
@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 -->
 
 
-![rect](https://capsule-render.vercel.app/api?type=rect&color=0:C091F6,100:BCE3FD&text=%20%20&fontAlign=30&fontSize=30&descAlign=60&descAlignY=50&section=footer)
+![waving](https://capsule-render.vercel.app/api?type=waving&color=0:C091F6,100:BCE3FD&text=%20%20&fontAlign=30&fontSize=30&descAlign=60&descAlignY=50&section=footer)
