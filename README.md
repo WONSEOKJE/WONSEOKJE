@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=🙋‍♂️WONSEOK&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&fontAlignY=40&color=0:BCE3FD,100:C091F6&section=header)
 
-### 🌱Experiences
+<!--### 🌱Experiences-->
 <!--
 **Bachelor Degree**
 - **Mar 2018 - Sep 2023(expected)** School of Conputer science, Chungbuk National University</br>
