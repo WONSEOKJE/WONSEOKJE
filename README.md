@@ -2,7 +2,8 @@
 
 <!--![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Good%20to%20use%20with%20other%20readme&fontSize=40&animation=twinkling)-->
 
-![waving](https://capsule-render.vercel.app/api?type=waving&color=auto&text=JUST%20DO%20IT💻&fontAlignY=30&fontSize=60&height=230&animation=fadeIn&desc=🙋‍♂️This%20is%20WONSEOK's%20github😎&descAlignY=50)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=JUST%20DO%20IT💻&fontAlignY=45&fontSize=60&height=170&animation=fadeIn&desc=🙋‍♂️This%20is%20WONSEOK's%20github😎&descAlignY=75)
+
 <div align="center">
   
 ![아이콘-008](https://user-images.githubusercontent.com/113500970/212017888-5e142307-dc20-43cb-8bdd-981e2ed14685.png)
@@ -59,4 +60,4 @@ Here are some ideas to get you started:
 -->
 
 
-![waving](https://capsule-render.vercel.app/api?type=waving&color=auto,100:BCE3FD&text=%20%20&fontAlign=30&fontSize=30&descAlign=60&descAlignY=50&section=footer)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto,100:BCE3FD&text=%20%20&fontAlign=30&fontSize=30&descAlign=60&descAlignY=50&section=footer)
