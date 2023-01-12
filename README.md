@@ -1,6 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=🙋‍♂️WONSEOK&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&fontAlignY=40&color=0:BCE3FD,100:C091F6&section=header)
 
-<div align="center">
 
 <!--### 🌱Experiences-->
 <!--
