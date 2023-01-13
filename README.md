@@ -6,7 +6,7 @@
 
 <div align="center">
   
-![아이콘깃](https://user-images.githubusercontent.com/113500970/212019514-68ed25de-aae6-45a7-94a2-1e69c82d2dc5.png)
+<!--![아이콘깃](https://user-images.githubusercontent.com/113500970/212019514-68ed25de-aae6-45a7-94a2-1e69c82d2dc5.png)-->
   
 <!--### 🌱Experiences-->
 <!--
