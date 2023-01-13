@@ -20,8 +20,9 @@
 
 ### ✨Profile✨
   
+
 <!-- 깃헙 스탯 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WONSEOKJE)](https://github.com/anuraghazra/github-readme-stats)
+![WONSEOK's GitHub stats](https://github-readme-stats.vercel.app/api?username=WONSEOKJE&show_icons=true&theme=radical)
 
 <!-- 백준 스탯 -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=je8888)](https://solved.ac/profile/je8888)
