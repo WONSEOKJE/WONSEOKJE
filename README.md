@@ -22,7 +22,7 @@
   
 
 <!-- 깃헙 스탯 -->
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WONSEOKJE)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WONSEOKJE&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- 백준 스탯 -->
